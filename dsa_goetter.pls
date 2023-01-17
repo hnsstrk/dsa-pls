@@ -19,5 +19,21 @@
     <grapheme>Hesinde</grapheme>
     <phoneme>ˈheːsindɛ</phoneme>
   </lexeme>
-
+  <lexeme>
+    <grapheme>Tsa</grapheme>
+    <phoneme>t͡saa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ingerimm</grapheme>
+    <phoneme>ingəˈrimm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Efferd</grapheme>
+    <phoneme>'ɛferd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Peraine</grapheme>
+    <phoneme>'pɛʁaɪ̯ne</phoneme>
+  </lexeme>
+  <!-- Der Rest sollte von der Aussprache her passen. -->
 </lexicon>

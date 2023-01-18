@@ -43,5 +43,13 @@
     <grapheme>lediglich</grapheme>
     <phoneme>ˈleːdɪklɪç</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Rast</grapheme>
+    <phoneme>ʁast</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>rasten</grapheme>
+    <phoneme>ˈʁastn̩</phoneme>
+  </lexeme>
 
 </lexicon>

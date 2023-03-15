@@ -32,6 +32,10 @@
     <phoneme>eləmɛnˈtaːɐ̯ˈɪstɪʃn̩</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Elementaristen</grapheme>
+    <phoneme>eləmɛnˈtaːɐ̯ˈɪstn̩</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>schenkenden</grapheme>
     <phoneme>ˈʃɛŋkn̩dən</phoneme>
   </lexeme>
@@ -51,5 +55,8 @@
     <grapheme>rasten</grapheme>
     <phoneme>ˈʁastn̩</phoneme>
   </lexeme>
-
+  <lexeme>
+    <grapheme>Fischgang</grapheme>
+    <phoneme>fɪʃˌɡaŋ</phoneme>
+  </lexeme>
 </lexicon>
